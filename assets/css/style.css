@@ -65,6 +65,23 @@ a {
     color: #777777;
 }
 
+a:link {
+	color: #140A25;
+	background-color: transparent;
+	text-decoration: none;
+  }
+ 
+  a:visited {
+	background-color: transparent;
+	text-decoration: none;
+  }
+ 
+  a:hover {
+	color: blueviolet;
+	background-color: transparent;
+	text-decoration: underline;
+  }
+
 .content {
 	width: 960px;
 	clear: both;
