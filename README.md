@@ -1,8 +1,8 @@
 # basic-portfolio
-#### portfolio homework
+#### Portfolio Homework
 
 https://ilyrodriguez.github.io/basic-portfolio/
-
+Week #2 assignment for
 UCF Coding Bootcamp  -  February 2019
 
 Technologies used: 
